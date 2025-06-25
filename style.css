@@ -39,9 +39,25 @@ body{background: url(fundo1.jpeg);
 }
 .cartao__conteudo p{
     margin-top: 1rem;
-    padding: 1rem;
+    
 
 }
+
+.cartao__conteudo__pergunta {
+
+     padding: 3rem;
+}
+.cartao__conteudo__resposta {
+
+
+padding: 0,5rem;
+
+
+}
+
+
+
+
 .cartao__conteudo__pergunta p {
     color:  rgb(255, 0, 0);
     font-weight: 700;
