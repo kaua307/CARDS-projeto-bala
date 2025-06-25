@@ -43,12 +43,12 @@ body{background: url(fundo1.jpeg);
 
 }
 .cartao__conteudo__pergunta p {
-    color:  rgb(156, 8, 8);
+    color:  rgb(255, 0, 0);
     font-weight: 500;
     
 }
 .cartao__conteudo__resposta p{
-    color:  rgb(185, 9, 9);
+    color:  rgb(255, 0, 0);
     font-weight: 700;
 }
 .cartao:hover .cartao__conteudo{
@@ -67,7 +67,7 @@ body{background: url(fundo1.jpeg);
 
 footer{
     background-color: black;
-    color: rgb(231, 82, 82);
+    color: rgb(255, 0, 0);
     position: fixed;
     bottom: 0;
     width: 100%;
