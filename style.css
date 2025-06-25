@@ -33,7 +33,7 @@ body{background: url(fundo1.jpeg);
     margin: 0.6rem;
     border-radius: 0.6rem;
     font-size: 1vw;
-    color: rgba(207, 13, 13, 0.808);
+    color: rgba(255, 0, 0, 0.808);
     backface-visibility: hidden;
     
 }
